@@ -20,8 +20,12 @@ git config user.email "mail@mail.com"
 
 3. Ensuite git vous demanderas de vous reconnecter avec votre compte et tout sera bon après ceci
 
+### Thème 2:
 
+1. Pour sycroniser votre fichier ou dossier quand vous êtes dans gitHUB allez dans le plus qui est en haut a droite de la page principale puis appuyez sur new repository,puis remplissez les infromation neccaissaire, cela va crée un nouveau depot dasn github oumettre votre projet a l'interieur.
 
+2. Ensuite vous pouvez retoutrner sur votre projet,vous pouvez ensuite reouvrir le 3ème onglet a gauche et retourner sur graph,puis a chaque fois vous appuyerez sur le "push" vous updaterez votre projet qui se trouve sur github.Push ce trouver dans l'onglet graph.(Le push c'est la flèche qui pointe vers le haut)
+![image-push](image-push.png)
 
 
 
